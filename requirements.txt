@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+mlflow==3.3.1
+pyspark
+pandas
+scikit-learn
