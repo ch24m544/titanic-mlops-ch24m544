@@ -37,9 +37,7 @@ python src/test.py
 python src/drift.py
 
 python src/retrain\_pipeline.py
-
-
-
+python src/autorun_pipeline.py
 
 
 docker build -t titanic-mlops .
