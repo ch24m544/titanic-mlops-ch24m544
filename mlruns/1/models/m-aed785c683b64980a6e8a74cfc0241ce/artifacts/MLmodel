@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/CRL/anaconda3/a_Mtech/1_Term3/AI_scale/project/titanic-mlops-neelam/mlruns/1/models/m-aed785c683b64980a6e8a74cfc0241ce/artifacts
+flavors:
+  python_function:
+    artifacts:
+      autogluon_model:
+        path: artifacts\autogluon_model
+        uri: models/autogluon_model
+    cloudpickle_version: 2.2.1
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.12.4
+    streamable: false
+mlflow_version: 3.3.1
+model_id: m-aed785c683b64980a6e8a74cfc0241ce
+model_size_bytes: 42410564
+model_uuid: m-aed785c683b64980a6e8a74cfc0241ce
+prompts: null
+run_id: f2a61b414b1c4b9d99609eacb0d544d7
+utc_time_created: '2025-08-28 05:24:56.352930'
